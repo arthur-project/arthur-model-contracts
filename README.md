@@ -1,0 +1,1 @@
+# arthur-model-contracts
